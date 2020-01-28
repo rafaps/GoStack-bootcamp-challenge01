@@ -47,8 +47,9 @@ If `POST /projects` is called and it is given `{ id: 1, title: 'New Project' }` 
 
 ### How to test
 
-```
+
 - Clone this repository or download the files
-- Install all the dependencies (Check package.json)
+- Must use a software to make HTTP requests, like [Insomnia](https://insomnia.rest/) or [Postman](https://www.getpostman.com/)
+- Use the command "Yarn install" to install all the dependencies(Check package.json)
 - Use the command "Yarn dev" to start the server
-```
+
